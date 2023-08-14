@@ -1,0 +1,7 @@
+pytorch-lightning
+trimesh
+onnxruntime
+Pillow==9.0.0
+pytorch
+pymeshlab
+scipy

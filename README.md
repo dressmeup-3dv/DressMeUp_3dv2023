@@ -1,6 +1,6 @@
 # Dress Me Up
 
-We provide the demo code for **Dress Me Up: A Dataset & Method for Self-Supervised 3D Garment Retargeting**, 3DV 2023 submission. Check out the code at     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11HgaGoTX7-k6uvmffuxUtzXVgb6aEftV?usp=sharing)
+We provide the demo code for **Dress Me Up: A Dataset & Method for Self-Supervised 3D Garment Retargeting**, 3DV 2023 submission. Check out the code at     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12gJveJsUUffmwW0HBq0aOPULEcjf3cRY?usp=sharing)
 
 ![](./images/teaser_new.png) 
 
